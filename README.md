@@ -1,21 +1,25 @@
 # Writing Assistance
 
-This project is a prototype for a **Context-Aware Writing Assistant**.  
-It was developed as part of a learning exercise and demonstrates the integration of modern frontend and backend tools.
+This project is a prototype for a **Context-Aware Writing Assistant**, developed as part of a learning exercise.  
+It combines modern frontend and backend technologies to demonstrate how natural language processing and external APIs can be integrated into a writing support tool.
 
-## Features
-- Frontend built with React and Vite
-- Backend powered by FastAPI / Node.js
-- Basic integration with external APIs for text processing
-- Example architecture for future extensions
+## Key Features
+- Frontend built with **React and Vite**
+- Backend using **FastAPI / Node.js**
+- Example architecture for text processing and API integration
+- Designed as a foundation for further enhancements
 
-## Important Notes
-- This project is **archived** and will not receive further updates.  
-- Any API keys or environment-specific values have been removed for security reasons.  
-- To run locally, create your own `.env` file with the required variables.
+## Skills Demonstrated
+- **Frontend Development**: React, Vite, Tailwind CSS  
+- **Backend Development**: FastAPI / Node.js  
+- **Version Control**: Git & GitHub workflow  
+- **Environment Management**: Handling `.env` files and API keys securely  
+- **Software Design**: Separation of frontend and backend, modular project structure  
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Version1Venky/Writing-Assistance.git
-   cd Writing-Assistance
+## Status
+⚠️ This repository is **archived** and will not receive further updates.  
+Environment files (`.env`) and API keys have been excluded for security.
+
+## Usage
+The repository is shared for **educational and portfolio purposes** only.  
+Feel free to explore the structure and adapt ideas for your own projects.
