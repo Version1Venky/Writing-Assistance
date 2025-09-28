@@ -1,0 +1,324 @@
+[
+  {
+    "participantCode": "001",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:33:25.369Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "001",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:33:39.384Z",
+    "sectionWordCount": 56,
+    "anonymous": false
+  },
+  {
+    "participantCode": "001",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:33:49.702Z",
+    "sectionWordCount": 56,
+    "anonymous": false
+  },
+  {
+    "participantCode": "001",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:33:51.664Z",
+    "sectionWordCount": 137,
+    "anonymous": false
+  },
+  {
+    "participantCode": "001",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:36:21.739Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "001",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:36:40.623Z",
+    "sectionWordCount": 78,
+    "anonymous": false
+  },
+  {
+    "participantCode": "002",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:50:42.099Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "002",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:50:56.442Z",
+    "sectionWordCount": 72,
+    "anonymous": false
+  },
+  {
+    "participantCode": "002",
+    "section": "introduction",
+    "timestamp": "2025-07-30T17:51:14.536Z",
+    "sectionWordCount": 161,
+    "anonymous": false
+  },
+  {
+    "participantCode": "003",
+    "section": "introduction",
+    "timestamp": "2025-07-30T18:09:11.277Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "003",
+    "section": "introduction",
+    "timestamp": "2025-07-30T18:09:23.966Z",
+    "sectionWordCount": 67,
+    "anonymous": false
+  },
+  {
+    "participantCode": "004",
+    "section": "introduction",
+    "timestamp": "2025-07-30T20:51:48.239Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "004",
+    "section": "introduction",
+    "timestamp": "2025-07-30T20:52:14.868Z",
+    "sectionWordCount": 63,
+    "anonymous": false
+  },
+  {
+    "participantCode": "004",
+    "section": "introduction",
+    "timestamp": "2025-07-30T20:52:29.778Z",
+    "sectionWordCount": 133,
+    "anonymous": false
+  },
+  {
+    "participantCode": "004",
+    "section": "introduction",
+    "timestamp": "2025-07-31T16:18:07.253Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "004",
+    "section": "introduction",
+    "timestamp": "2025-07-31T16:18:40.430Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "004",
+    "section": "introduction",
+    "timestamp": "2025-07-31T16:18:59.096Z",
+    "sectionWordCount": 64,
+    "anonymous": false
+  },
+  {
+    "participantCode": "005",
+    "section": "introduction",
+    "timestamp": "2025-08-05T15:52:51.579Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "005",
+    "section": "introduction",
+    "timestamp": "2025-08-05T15:52:54.219Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "005",
+    "section": "introduction",
+    "timestamp": "2025-08-05T15:53:13.609Z",
+    "sectionWordCount": 72,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-05T15:56:42.902Z",
+    "sectionWordCount": 4,
+    "anonymous": true
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-05T15:56:44.656Z",
+    "sectionWordCount": 4,
+    "anonymous": true
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T11:04:24.145Z",
+    "sectionWordCount": 5,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T11:04:55.659Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T11:05:58.257Z",
+    "sectionWordCount": 4,
+    "anonymous": true
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T15:08:36.114Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T15:09:30.107Z",
+    "sectionWordCount": 77,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T15:09:43.674Z",
+    "sectionWordCount": 163,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-06T15:09:56.735Z",
+    "sectionWordCount": 258,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-16T23:12:11.078Z",
+    "sectionWordCount": 3,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-16T23:12:12.738Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-16T23:12:24.586Z",
+    "sectionWordCount": 81,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-17T00:08:20.485Z",
+    "sectionWordCount": 3,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-17T12:44:01.405Z",
+    "sectionWordCount": 4,
+    "anonymous": true
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-17T12:44:05.250Z",
+    "sectionWordCount": 4,
+    "anonymous": true
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-17T12:44:08.896Z",
+    "sectionWordCount": 4,
+    "anonymous": true
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T00:23:56.215Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T00:24:09.861Z",
+    "sectionWordCount": 65,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T00:24:28.687Z",
+    "sectionWordCount": 117,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T01:01:27.399Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T01:01:41.416Z",
+    "sectionWordCount": 83,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T01:22:28.867Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T01:22:44.159Z",
+    "sectionWordCount": 67,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T02:37:29.142Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-08-18T02:37:49.490Z",
+    "sectionWordCount": 60,
+    "anonymous": false
+  },
+  {
+    "participantCode": "006",
+    "section": "introduction",
+    "timestamp": "2025-09-28T21:19:30.931Z",
+    "sectionWordCount": 4,
+    "anonymous": false
+  }
+]
